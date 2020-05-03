@@ -1,0 +1,33 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+input {
+    border-radius: 5rem !important;
+}
+label, .modal-title {
+    font-weight: 1000;
+}
+
+ a .fa {
+          color: white;
+      }
+
+a .fa:hover {
+    color: #808B96 ;
+}
+h1 {
+    text-transform: uppercase;
+}
+.main {
+    height: 100vh;
+    text-align: center;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-evenly;
+}
+.social {
+    display: flex;
+    justify-content: space-evenly;
+}
